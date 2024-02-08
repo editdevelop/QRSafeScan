@@ -1,4 +1,4 @@
-# QRSafeScan
+# QRSafeScan Free APP
 ¡Tu escudo digital y tu biblioteca de códigos QR, todo en una aplicación gratuita!
 
 
