@@ -1,4 +1,6 @@
 # QRSafeScan
+¡Tu escudo digital y tu biblioteca de códigos QR, todo en una aplicación gratuita!
+
 Información
 Tamaño
 16,5 MB
